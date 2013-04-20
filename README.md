@@ -1,6 +1,14 @@
 ======
 Project LSCbot
 ======
+Project Team:
+-------------
+Gioele
+Xavi
+Joakim
+Nacho
+Johan
+Irvin
 
 Introduction
 -------------
