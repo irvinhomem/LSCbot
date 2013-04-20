@@ -1,0 +1,4 @@
+LSCbot
+======
+
+The LSCbot project
